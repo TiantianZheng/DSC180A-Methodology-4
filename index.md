@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 **Name** · Tiantian Zheng  
 **UCSD email** · [t3zheng@ucsd.edu]
 **Section** · D08 
